@@ -1,0 +1,31 @@
+{
+  "name": "kodilla-sass-grunt",
+  "version": "1.0.0",
+  "description": "grunt project",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DagmaraJagodzinska/kodilla_project.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Dagmara Jagodzinska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DagmaraJagodzinska/kodilla_project/issues"
+  },
+  "homepage": "https://github.com/DagmaraJagodzinska/kodilla_project#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-sass": "^1.2.1"
+  },
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-sass": "^1.2.1"
+  }
+}
